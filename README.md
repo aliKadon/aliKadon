@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 👋 Hi, I'm  Ali Kadon  Android Applications Developer(java, Kotlin,Flutter Dart).
 
 	I'm in Dubai,UAE.
@@ -54,4 +52,7 @@
         Email: alikadonn@gmail.com
         
         Linked-in: https://www.linkedin.com/in/alikadon/
+
+<!--
+
 -->
